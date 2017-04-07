@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"cool-ascii-faces",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "cool-ascii-faces",
+    "description": "api documentation for [cool-ascii-faces (v1.3.4)](https://github.com/maxogden/cool-ascii-faces) [![npm package](https://img.shields.io/npm/v/npmdoc-cool-ascii-faces.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cool-ascii-faces) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces)",
     "devDependencies": {
         "cool-ascii-faces": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
-    "name":"npmdoc-cool-ascii-faces",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-cool-ascii-faces",
+    "keywords": [
+        "documentation",
+        "cool-ascii-faces"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_cool_ascii_faces.js",
+    "name": "npmdoc-cool-ascii-faces",
+    "nameAlias": "npmdoc_cool_ascii_faces",
+    "nameOriginal": "npmdoc-cool-ascii-faces",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-cool-ascii-faces"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
