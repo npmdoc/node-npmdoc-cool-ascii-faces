@@ -2,11 +2,11 @@
 <rect height="2110" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; npmdoc-cool-ascii-faces@0.0.2 test /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces</tspan>
+<tspan x="10" y="42">&gt; npmdoc-cool-ascii-faces@0.0.3 test /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces</tspan>
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-08T10:41:36Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-08T10:43:01Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">cool-ascii-faces</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,59 +14,59 @@
 <tspan x="10" y="186">c-cool-ascii-faces/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test-report.json\</tspan>
 <tspan x="10" y="218"> to test-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 45824</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 54939</tspan>
 <tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/apidoc.ht\</tspan>
 <tspan x="10" y="266">ml</tspan>
 <tspan x="10" y="282"></tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces\</tspan>
-<tspan x="10" y="330">/tmp/electron.15b4d27ab890.d5bcfcbfe9cfc.html</tspan>
+<tspan x="10" y="330">/tmp/electron.15b4d28f92e0.51c514cc39189.html</tspan>
 <tspan x="10" y="346"></tspan>
 <tspan x="10" y="362">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="378">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="394">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces\</tspan>
-<tspan x="10" y="442">/tmp/electron.15b4d27abb20.404c6de46e57c.html</tspan>
+<tspan x="10" y="442">/tmp/electron.15b4d28f95a0.838ec9b13c495.html</tspan>
 <tspan x="10" y="458"></tspan>
 <tspan x="10" y="474">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="490">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="506">&gt; server listening on http-port 44281</tspan>
-<tspan x="10" y="522">merging file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test-report.json\</tspan>
-<tspan x="10" y="538"> to test-report</tspan>
-<tspan x="10" y="554">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="570">[4767:0408/104137:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="586">[4767:0408/104137:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="602">merging file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test-report.json\</tspan>
-<tspan x="10" y="618"> to test-report</tspan>
-<tspan x="10" y="634">[4805:0408/104137:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="650">in process gpu-process. </tspan>
-<tspan x="10" y="666">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="682">[4771:0408/104137:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="698">[4771:0408/104137:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="714">[4767:0408/104137:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="730">[4831:0408/104138:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="506">merging file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test-report.json\</tspan>
+<tspan x="10" y="522"> to test-report</tspan>
+<tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="554">[5675:0408/104303:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="570">[5675:0408/104303:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="586">&gt; server listening on http-port 51307</tspan>
+<tspan x="10" y="602">[5706:0408/104303:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="618">in process gpu-process. </tspan>
+<tspan x="10" y="634">[5675:0408/104303:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="650">merging file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test-report.json\</tspan>
+<tspan x="10" y="666"> to test-report</tspan>
+<tspan x="10" y="682">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="698">[5679:0408/104303:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="714">[5679:0408/104303:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="730">[5740:0408/104303:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="746">in process gpu-process. </tspan>
-<tspan x="10" y="762">[4771:0408/104138:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="762">[5679:0408/104303:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="778"></tspan>
 <tspan x="10" y="794">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/apidoc\</tspan>
 <tspan x="10" y="810">.html</tspan>
 <tspan x="10" y="826"></tspan>
 <tspan x="10" y="842"></tspan>
-<tspan x="10" y="858">browserTest - opened url http://127.0.0.1:45824?modeTest=1</tspan>
+<tspan x="10" y="858">browserTest - opened url http://127.0.0.1:54939?modeTest=1</tspan>
 <tspan x="10" y="874"></tspan>
-<tspan x="10" y="890">[4771:0408/104139:INFO:CONSOLE(248)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="890">[5679:0408/104305:INFO:CONSOLE(248)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="906">|</tspan>
 <tspan x="10" y="922">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="938">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="954">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="970">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="986">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1002">", source: file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/electron.15b4d27abb\</tspan>
-<tspan x="10" y="1018">20.404c6de46e57c.html (248)</tspan>
-<tspan x="10" y="1034">[4771:0408/104139:INFO:CONSOLE(248)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1050">l", source: file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/electron.15b4d27ab\</tspan>
-<tspan x="10" y="1066">b20.404c6de46e57c.html (248)</tspan>
+<tspan x="10" y="1002">", source: file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/electron.15b4d28f95\</tspan>
+<tspan x="10" y="1018">a0.838ec9b13c495.html (248)</tspan>
+<tspan x="10" y="1034">[5679:0408/104305:INFO:CONSOLE(248)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1050">l", source: file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/electron.15b4d28f9\</tspan>
+<tspan x="10" y="1066">5a0.838ec9b13c495.html (248)</tspan>
 <tspan x="10" y="1082">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1098"></tspan>
 <tspan x="10" y="1114">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-face\</tspan>
@@ -88,7 +88,7 @@
 <tspan x="10" y="1370">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-face\</tspan>
 <tspan x="10" y="1386">s/tmp/build/screenCapture.npmTest.browser.%2F.html</tspan>
 <tspan x="10" y="1402"></tspan>
-<tspan x="10" y="1418">browserTest - exit-code 0 - http://127.0.0.1:45824?modeTest=1</tspan>
+<tspan x="10" y="1418">browserTest - exit-code 0 - http://127.0.0.1:54939?modeTest=1</tspan>
 <tspan x="10" y="1434"></tspan>
 <tspan x="10" y="1450"></tspan>
 <tspan x="10" y="1466">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/co\</tspan>
@@ -116,11 +116,11 @@
 <tspan x="10" y="1818"> to test-report</tspan>
 <tspan x="10" y="1834"></tspan>
 <tspan x="10" y="1850">-------------------------------------------------------</tspan>
-<tspan x="10" y="1866">| test-report - npmTest - node - linux v6.10.2 - 2017-04-08T10:41:36.815Z</tspan>
-<tspan x="10" y="1882">|   16436 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="1866">| test-report - npmTest - node - linux v6.10.2 - 2017-04-08T10:43:02.207Z</tspan>
+<tspan x="10" y="1882">|   16672 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="1898">-------------------------------------------------------</tspan>
-<tspan x="10" y="1914">| test-report - npmdoc - node - linux v6.10.2 - 2017-04-08T10:41:16.037Z</tspan>
-<tspan x="10" y="1930">|   16324 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="1914">| test-report - npmdoc - node - linux v6.10.2 - 2017-04-08T10:42:24.573Z</tspan>
+<tspan x="10" y="1930">|   16011 ms            0 failed        1 passed      |</tspan>
 <tspan x="10" y="1946">-------------------------------------------------------</tspan>
 <tspan x="10" y="1962"></tspan>
 <tspan x="10" y="1978">created test-report file:///home/travis/build/npmdoc/node-npmdoc-cool-ascii-faces/tmp/build/test\</tspan>
@@ -130,6 +130,6 @@
 <tspan x="10" y="2042">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="2058"></tspan>
 <tspan x="10" y="2074"></tspan>
-<tspan x="10" y="2090">[MODE_BUILD=npmTest] - 2017-04-08T10:41:55Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2090">[MODE_BUILD=npmTest] - 2017-04-08T10:43:20Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
