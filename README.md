@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/cool-ascii-faces.png?downloads=true)](https://www.npmjs.com/package/cool-ascii-faces)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-cool-ascii-faces%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-cool-ascii-faces%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.npmPackageListing.svg)
 
