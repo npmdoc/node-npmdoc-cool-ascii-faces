@@ -1,9 +1,14 @@
-# api documentation for  [cool-ascii-faces (v1.3.4)](https://github.com/maxogden/cool-ascii-faces)  [![npm package](https://img.shields.io/npm/v/npmdoc-cool-ascii-faces.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cool-ascii-faces) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces)
+# npmdoc-cool-ascii-faces
+
+#### api documentation for  [cool-ascii-faces (v1.3.4)](https://github.com/maxogden/cool-ascii-faces)  [![npm package](https://img.shields.io/npm/v/npmdoc-cool-ascii-faces.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cool-ascii-faces) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cool-ascii-faces)
+
 #### get some cool ascii faces ヽ༼ຈل͜ຈ༽ﾉ
 
-[![NPM](https://nodei.co/npm/cool-ascii-faces.png?downloads=true)](https://www.npmjs.com/package/cool-ascii-faces)
+[![NPM](https://nodei.co/npm/cool-ascii-faces.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cool-ascii-faces)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-cool-ascii-faces%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cool-ascii-faces/build/screenCapture.npmPackageListing.svg)
 
@@ -41,17 +46,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "bret",
-            "email": "bcomnes@gmail.com"
+            "name": "bret"
         },
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         }
     ],
     "name": "cool-ascii-faces",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/maxogden/cool-ascii-faces.git"
@@ -61,41 +63,6 @@
     },
     "version": "1.3.4"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module cool-ascii-faces](#apidoc.module.cool-ascii-faces)
-1.  [function <span class="apidocSignatureSpan">cool-ascii-faces.</span>faceStream ()](#apidoc.element.cool-ascii-faces.faceStream)
-1.  object <span class="apidocSignatureSpan">cool-ascii-faces.</span>faces
-
-
-
-# <a name="apidoc.module.cool-ascii-faces"></a>[module cool-ascii-faces](#apidoc.module.cool-ascii-faces)
-
-#### <a name="apidoc.element.cool-ascii-faces.faceStream"></a>[function <span class="apidocSignatureSpan">cool-ascii-faces.</span>faceStream ()](#apidoc.element.cool-ascii-faces.faceStream)
-- description and source-code
-```javascript
-faceStream = function () {
-  return spigot(faces)
-}
-```
-- example usage
-```shell
-...
-  "=͟͟͞͞ =͟͟͞͞ ﾍ( ´Д')ﾉ",
-  "(((╹д╹;)))",
-  "•̀.̫•́✧",
-  "(ᵒ̤̑ ₀̑ ᵒ̤̑)",
-  "\_(ʘ_ʘ)_/"
-]
-
-cool.faceStream()
-// create a readable stream of all the faces
-'''
-...
 ```
 
 
